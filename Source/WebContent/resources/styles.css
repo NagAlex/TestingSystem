@@ -1,0 +1,63 @@
+#congr {
+	margin: 15px auto;
+	width: 300px;
+	color:	#f00;
+	font-family: Goergia, Times, Serif;
+	font-size: 24pt;
+	font-weight: bold;
+}
+.box {
+	border:1px solid #ccc;
+	border-radius:4px;
+	box-shadow:0 0 2px #ccc;
+}
+body {
+	background: #F0F0F0;
+}
+main, header, footer {
+	margin: 30px auto;
+	width: 400px;
+}
+h2, h3, div, p {
+	text-align: center;
+}
+h2 {
+	color: #505050;
+}
+INPUT[type="submit"] {
+	margin: 2px auto;
+    width: 300px; 
+}
+TABLE {
+	margin: 5px auto;
+    width: 300px; 
+    border-collapse: collapse; 
+}
+TD, TH {
+    padding: 3px; 
+    border: 1px solid black;
+   }
+   
+TH {
+    background: #b0e0e6;
+}
+p {
+	margin: 10px;
+	color: #00f;
+	font-family: 'Times New Roman', Times, serif;
+}
+p:first-letter {
+	font-size: 1.2em;
+	color: green;
+}
+.error {
+	color: #ff0000;
+}
+		
+.errorblock {
+	color: #000;
+	background-color: #ffEEEE;
+	border: 3px solid #ff0000;
+	padding: 8px;
+	margin: 16px;
+}
